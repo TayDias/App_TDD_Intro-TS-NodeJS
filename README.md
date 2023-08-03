@@ -78,7 +78,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 1. Faça o clone do repositório e no terminal navegue até a pasta.
 2. Abra o seu editor de código e instale as dependências do projeto com `npm install`. O código foi desenvolvido no [Visual Studio Code](https://code.visualstudio.com).
 3. Rode os testes da aplicação com `npm test`.
-...
 
 
 # Referências
